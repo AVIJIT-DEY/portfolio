@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #38bdf8;
+  color: black;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+section {
+  padding: 60px;
+  text-align: center;
+}
+
+.skills span {
+  display: inline-block;
+  background: #1e293b;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 5px;
+}
